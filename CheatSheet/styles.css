@@ -1,0 +1,45 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: gainsboro;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  color: indigo;
+  text-align: center;
+}
+
+table {
+  border: 2px solid hotpink;
+  width: 650px;
+  margin: 0 auto;
+  justify-content: space-evenly;
+}
+
+thead {
+  background-color: orchid;
+}
+
+td {
+  border-top: 1px solid hotpink;
+}
+
+.code {
+  font-family: monospace;
+  background-color: yellow;
+}
+
+p {
+  font-family: sans-serif;
+  color: black;
+  text-align: center;
+}
+
+.center {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
